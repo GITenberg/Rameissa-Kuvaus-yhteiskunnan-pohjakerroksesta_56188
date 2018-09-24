@@ -1,11 +1,16 @@
 _repo: Rameissa-Kuvaus-yhteiskunnan-pohjakerroksesta_56188
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pietilä, Väinö
     gutenberg_agent_id: '48711'
     url: http://www.gutenberg.org/2009/agents/48711
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56188#Rameissa-Kuvaus-yhteiskunnan-pohjakerroksesta
 gutenberg_issued: '2017-12-16'
 gutenberg_type: Text
 identifiers:
